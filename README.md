@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate backend dev from Colombia</h3>
 
-<p align="center"> <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true"/></p>
+<p align="left"> <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true"/></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xd-mau5&label=Profile%20views&color=0e75b6&style=flat" alt="xd-mau5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xd-mau5" alt="xd-mau5" /></a> </p>
