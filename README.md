@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python, Java and DevOps**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
-
 [![last.fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true)](https://last.fm/user/xd_mau5)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xd-mau5&label=Profile%20views&color=0e75b6&style=flat" alt="xd-mau5" /> </p>
