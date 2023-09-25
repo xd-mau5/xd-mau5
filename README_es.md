@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Omar Izquierdo</h1>
+<h1 align="center">Hola 👋, Soy Omar Izquierdo</h1>
 
-[Version en Español](README_es.md)
-<h3 align="center">A passionate Java backend dev and data analyst from Colombia</h3>
+[English Version](README.md)
+<h3 align="center">Un apasionado desarrollador Java Backend y analista de datos de Colombia</h3>
 
-- 🌱 I’m currently learning **Java, Python, SQL, NoSQL, Containers, and more**
+- 🌱 Actualmente estoy aprendiendo **Java, Python, SQL, NoSQL, Containers, y más**
 ## Music
 [![last.fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true)](https://last.fm/user/xd_mau5)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=xd-mau5&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xd-mau5&label=Visualizaciones%20del%20Perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## Connect with Me
+## Conecta conmigo
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=social&logo=discord)](https://discord.com/users/427683965181362176)
 [![Last.fm](https://img.shields.io/badge/Last.fm-F29F35?style=social&logo=lastdotfm)](https://last.fm/user/xd_mau5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/omar-izquierdo-204387231/)
@@ -21,8 +21,8 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=social&logo=steam)](https://steamcommunity.com/id/xd_mau5)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=social&logo=twitch)](https://twitch.tv/xd_mau5)
 
-## Languages
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+## Lenguajes
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Mardown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
@@ -31,12 +31,12 @@
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
-## Databases
+## Bases de datos
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
-## Frameworks, Libraries, and Tools
+## Frameworks, Librerías y Herramientas
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
@@ -56,5 +56,5 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3881C6?style=for-the-badge&logo=seaborn&logoColor=white)](#)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](#)
-## Stats
+## Estadísticas (solamente en inglés)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xd-mau5&show_icons=true&locale=en&layout=compact&theme=dark" alt="xd-mau5" /></p>
