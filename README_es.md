@@ -4,7 +4,17 @@
 <h3 align="center">Un apasionado desarrollador Java Backend y analista de datos de Colombia</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Java, Python, SQL, NoSQL, Containers, y más**
-## Music
+
+Indice
+- [Musica (Probablemente escuchando esto en este momento)](#musica-probablemente-escuchando-esto-en-este-momento)
+- [Conecta conmigo](#conecta-conmigo)
+- [Lenguajes](#lenguajes)
+- [Bases de datos](#bases-de-datos)
+- [Frameworks, Librerías y Herramientas](#frameworks-librerías-y-herramientas)
+- [Estadísticas (solamente en inglés)](#estadísticas-solamente-en-inglés)
+
+
+## Musica (Probablemente escuchando esto en este momento)
 [![last.fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true)](https://last.fm/user/xd_mau5)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)

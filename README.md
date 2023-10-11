@@ -4,7 +4,17 @@
 <h3 align="center">A passionate Java backend dev and data analyst from Colombia</h3>
 
 - 🌱 I’m currently learning **Java, Python, SQL, NoSQL, Containers, and more**
-## Music
+
+Index
+- [Music (Probably hearing this right now)](#music-probably-hearing-this-right-now)
+- [Connect with Me](#connect-with-me)
+- [Languages](#languages)
+- [Databases](#databases)
+- [Frameworks, Libraries, and Tools](#frameworks-libraries-and-tools)
+- [Stats](#stats)
+  
+  
+## Music (Probably hearing this right now)
 [![last.fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true)](https://last.fm/user/xd_mau5)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
