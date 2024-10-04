@@ -17,7 +17,7 @@ Index
 ## Music (Probably hearing this right now)
 [![last.fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true)](https://last.fm/user/xd_mau5)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 [![](https://visitcount.itsvg.in/api?id=xd-mau5&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
