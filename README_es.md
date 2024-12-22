@@ -3,7 +3,7 @@
 [English Version](README.md)
 <h3 align="center">Un apasionado desarrollador Java Backend y analista de datos de Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Java, Python, SQL, NoSQL, Containers, y más**
+- 🌱 Actualmente estoy trabajando pero tambien aprendiendo **Containers, C#, TypeScript and .NET**
 
 Indice
 - [Musica (Probablemente escuchando esto en este momento)](#musica-probablemente-escuchando-esto-en-este-momento)
@@ -17,7 +17,7 @@ Indice
 ## Musica (Probablemente escuchando esto en este momento)
 [![last.fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=xd_mau5&theme=dark&show_scrobbles=true)](https://last.fm/user/xd_mau5)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ho6rzmyljyskcjyjgxkg9x0ec&redirect=true)
 
 
 [![](https://visitcount.itsvg.in/api?id=xd-mau5&label=Visualizaciones%20del%20Perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -34,6 +34,8 @@ Indice
 ## Lenguajes
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Mardown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](#)
@@ -45,6 +47,8 @@ Indice
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![CosmosDB](https://img.shields.io/badge/CosmosDB-1679A7?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
 
 ## Frameworks, Librerías y Herramientas
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
@@ -53,8 +57,15 @@ Indice
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
+[![Jetbrains Rider](https://img.shields.io/badge/Jetbrains%20Rider-000000?style=for-the-badge&logo=rider&logoColor=white)](#)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![DBeaver](https://img.shields.io/badge/DBeaver-EE7C00?style=for-the-badge&logo=dbeaver&logoColor=white)](#)
+[![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
